@@ -21,7 +21,7 @@ fun getStringLength(obj: Any): Int? {
     return obj.length
 }
 
-fun foo(num: Int = 0, name: String = "abdul") {
+fun foo(num: Int = 0, name: String = "harish") {
     println("the value of a is $num and name is $name")
 }
 
